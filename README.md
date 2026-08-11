@@ -1,48 +1,56 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/deepak-kumar-485b602a3/)
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
+# 💫 About Me:
+Aspiring **Data Analyst** with hands-on experience in SQL, Power BI, Excel, and Python, built through internships and applied projects in dashboard design, exploratory data analysis, and data cleaning. Google Data Analytics certified, with strong stakeholder communication and client-handling skills. Proven ability to translate raw data into actionable business insights.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankku-droid&label=Profile%20views&color=0e75b6&style=flat" alt="ankku-droid" /> </p>
+- 🔭 Currently working on data cleaning, dashboarding & SQL analysis projects
+- 🌱 Sharpening skills in Power BI, PostgreSQL, and Python (Pandas/NumPy)
+- 💬 Ask me about SQL, Excel, Power BI, and Data Analysis
+- 📫 Reach me at **deepak8217705@gmail.com**
+- 📍 Based in Delhi, India
 
-- 🔭 I’m currently working on **Portfolio Projects**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-analyst-485b602a3/)
 
-- 🌱 I’m currently learning **ML**
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 👯 I’m looking to collaborate on **"Data analysis Projects"**
+## 📌 Featured Projects:
 
-- 💬 Ask me about **sql,Excel,Python and PowerBi**
+### 🫁 [Lung Cancer Analysis (SQL/PostgreSQL)](https://github.com/ankku-droid/lung_cancer_sql_project)
+Analyzed trends across lung cancer datasets using PostgreSQL — uncovered high-risk demographics, standardized inconsistent features, and wrote SQL queries correlating symptoms, chronic diseases, and smoking habits to drive healthcare recommendations.
 
-- 📫 How to reach me **deepak8217705@gmail.com**
+### 📊 [Excel Sales Dashboard](https://github.com/ankku-droid/Excel-Project)
+Built dynamic Excel dashboards tracking sales growth trends, improving decision-making speed by 15% using PivotTables, slicers, and conditional formatting.
 
-- ⚡ Fun fact **i'm funny.**
+### 📈 [Sales Performance Dashboard 2024](https://github.com/ankku-droid/Sale_performance_dashboard_2024)
+End-to-end sales performance dashboard project analyzing key business metrics and trends for data-driven decision-making.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepak-kumar-485b602a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar-485b602a3" height="30" width="40" /></a>
-<a href="https://instagram.com/deepakanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepakanalyst" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepak8217705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepak8217705" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i6dywnp9lq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i6dywnp9lq" height="30" width="40" /></a>
-</p>
+### 🌍 [SQL + Excel Pollution Project](https://github.com/ankku-droid/SQL-EXCEL-POLLUTION-PROJECT)
+Combined SQL and Excel to analyze pollution data, uncovering patterns and insights through data cleaning and visualization.
 
-<h3 align="left">Languages and Tools:</h3>
+## 🎓 Certifications:
+- Google Data Analytics – Coursera
+- Data Analytics and Visualization – Accenture North America
+- Data Visualization: Empowering Business with Effective Insights – Tata
+- Advanced SQL – HackerRank
 
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373590/excel2.svg" alt="Excel" width="40" height="40"/> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="40"/> </a>
-     <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power Bi" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="60" height="40"/>  
-   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo_dark.svg" alt="matplotlib" width="60" height="40"/> 
-   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" width="50" height="40"/>   
-    
-  </a> 
-</p>
+*(Full credentials linked on my [LinkedIn](https://www.linkedin.com/in/deepak-analyst-485b602a3/))*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankku-droid&show_icons=true&locale=en&layout=compact" alt="ankku-droid" /></p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ankku-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=ankku-droid&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankku-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankku-droid&show_icons=true&locale=en" alt="ankku-droid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankku-droid&" alt="ankku-droid" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=ankku-droid&icon=0&color=0)](https://visitcount.itsvg.in)
