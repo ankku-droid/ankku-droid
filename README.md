@@ -29,7 +29,7 @@
 - Google Data Analytics – Coursera
 - Data Analytics and Visualization – Accenture North America
 - Data Visualization: Empowering Business with Effective Insights – Tata
-- Advanced SQL – HackerRank
+- SQL – HackerRank
 
 *(Full credentials linked on my [LinkedIn](https://www.linkedin.com/in/deepak-analyst-485b602a3/))*
 
