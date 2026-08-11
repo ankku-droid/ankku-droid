@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring **Data Analyst** with hands-on experience in SQL, Power BI, Excel, and Python, built through internships and applied projects in dashboard design, exploratory data analysis, and data cleaning. Google Data Analytics certified, with strong stakeholder communication and client-handling skills. Proven ability to translate raw data into actionable business insights.
+**Data Analyst** with hands-on experience in SQL, Power BI, Excel, and Python, built through internships and applied projects in dashboard design, exploratory data analysis, and data cleaning. Google Data Analytics certified, with strong stakeholder communication and client-handling skills. Proven ability to translate raw data into actionable business insights.
 
 - 🔭 Currently working on data cleaning, dashboarding & SQL analysis projects
 - 🌱 Sharpening skills in Power BI, PostgreSQL, and Python (Pandas/NumPy)
