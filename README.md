@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Data Analyst** with hands-on experience in SQL, Power BI, Excel, and Python, built through internships and applied projects in dashboard design, exploratory data analysis, and data cleaning. Google Data Analytics certified, with strong stakeholder communication and client-handling skills. Proven ability to translate raw data into actionable business insights.
+Aspiring **Data Analyst** with hands-on experience in SQL, Power BI, Excel, and Python, built through internships and applied projects in dashboard design, exploratory data analysis, and data cleaning. Google Data Analytics certified, with strong stakeholder communication and client-handling skills. Proven ability to translate raw data into actionable business insights.
 
 - 🔭 Currently working on data cleaning, dashboarding & SQL analysis projects
 - 🌱 Sharpening skills in Power BI, PostgreSQL, and Python (Pandas/NumPy)
@@ -25,25 +25,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📌 Featured Projects:
-
-### 🫁 [Lung Cancer Analysis (SQL/PostgreSQL)](https://github.com/ankku-droid/lung_cancer_sql_project)
-Analyzed trends across lung cancer datasets using PostgreSQL — uncovered high-risk demographics, standardized inconsistent features, and wrote SQL queries correlating symptoms, chronic diseases, and smoking habits to drive healthcare recommendations.
-
-### 📊 [Excel Sales Dashboard](https://github.com/ankku-droid/Excel-Project)
-Built dynamic Excel dashboards tracking sales growth trends, improving decision-making speed by 15% using PivotTables, slicers, and conditional formatting.
-
-### 📈 [Sales Performance Dashboard 2024](https://github.com/ankku-droid/Sale_performance_dashboard_2024)
-End-to-end sales performance dashboard project analyzing key business metrics and trends for data-driven decision-making.
-
-### 🌍 [SQL + Excel Pollution Project](https://github.com/ankku-droid/SQL-EXCEL-POLLUTION-PROJECT)
-Combined SQL and Excel to analyze pollution data, uncovering patterns and insights through data cleaning and visualization.
-
 ## 🎓 Certifications:
 - Google Data Analytics – Coursera
 - Data Analytics and Visualization – Accenture North America
 - Data Visualization: Empowering Business with Effective Insights – Tata
-- SQL – HackerRank
+- Advanced SQL – HackerRank
 
 *(Full credentials linked on my [LinkedIn](https://www.linkedin.com/in/deepak-analyst-485b602a3/))*
 
